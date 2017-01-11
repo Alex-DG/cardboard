@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_2809fb6ae60bf8591ee2992b5cbcf7bd05873e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b2aadfa60af5dc5cd427fdab1e32e2557024cbb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b902f5f1f0337e9a1f3d53a9d0633ce7aeffbe1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.google.vr/sdk-common/1.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-common-1.10.0_112e28a09941a0f23891d1bc2d32c47aa32b5cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d4f9ed3a53b8ab9c535619c1052c5cd2d9716cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_92648bb3ec30e1b3a127e0f52855bd7faa246c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8f59dd50e538f603c52f09dce17cdc10e0039f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.google.vr/sdk-commonwidget/1.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-commonwidget-1.10.0_1dee1bfd66422dcb3dfc86dc47ef65d7874a82e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_62e6f3797ca7c782898d223170333211c06c0c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.google.vr/sdk-panowidget/1.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.google.vr-sdk-panowidget-1.10.0_1c25c287893a3803933fdcb3b9d6028a43cca2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0d95d7b7b5953cf365719f2f3280fb0e5d1ffb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a755bc134cb8161b8fed4c3fe6747362aa222738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f2ad7982c96f707b492715447e753d69371bcfca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.1.0/5110f05deac8f15244897b3f70e9ce413468771d/protobuf-javanano-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/protobuf-javanano-3.1.0_93a27871f2399f3fcc2e0cc11abb78efb75b34cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ade438fa44f9566628e2a1ca749bdd6ce44706be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_df8906af287816d54c6413f3b84c5d27e3fcfd6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Documents/AndroidSDK/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b4bcae548be292c6d45b668444dce4050875dfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_e235478d70738688f2850c378adfdc1912545e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/alexandrediguida/Projects/googlecardboard/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_4c6f72bea8bc0a8984f2db152f162b01a6f41c62.jar" />
+    </item>
+
+</items>
